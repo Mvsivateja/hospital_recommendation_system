@@ -4,6 +4,8 @@
 This is a **ready-to-run website** that recommends hospitals based on your needs
 (specialization, city, distance, rating, insurance, 24x7, cost).
 
+![image alt](https://github.com/Mvsivateja/hospital_recommendation_system/blob/4b777a68a12fe01ca729b3f0dfbc4677717fd24d/1.png)
+
 ⚠️ **Note:** The dataset provided is **sample/fictional** for the towns you mentioned
 (**Kadapa, Proddatur, Mydukur, Badvel, Jammalamadugu**). Replace `data/hospitals.csv`
 with your real list to use in production.
