@@ -93,6 +93,8 @@ Open `data/hospitals.csv` and replace the rows with your actual hospitals.
 
 For production, make sure your CSV is accurate and kept up to date.
 
+![image alt](https://github.com/Mvsivateja/hospital_recommendation_system/blob/07d99417110bf307b114d2e6707827eebe1dbfe7/3.png)
+
 ---
 
 ## Project tree
